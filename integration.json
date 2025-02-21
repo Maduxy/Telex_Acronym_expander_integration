@@ -1,0 +1,32 @@
+{
+    "data": {
+      "date": {
+        "created_at": "2025-02-20",
+        "updated_at": "2025-02-20"
+      },
+      "descriptions": {
+        "app_name": "Acronym Expander",
+        "app_description": "Replaces common acronyms with their full forms (e.g., BTW : By the way).",
+        "app_logo": "https://i.imgur.com/lZqvffp.png",
+        "app_url": "https://lrwtlfnz-8000.uks1.devtunnels.ms",
+        "background_color": "#fff"
+      },
+      "is_active": true,
+      "integration_type": "modifier",
+      "key_features": [
+        "Replaces acronyms with full phrases"
+      ],
+      "integration_category": "Monitoring & Logging",
+      "author": "Onyejiaka Maduabuchi",
+      "settings": [
+        {
+          "label": "modifier",
+          "type": "text",
+          "required": true,
+          "default": ""
+        }
+      ],
+      "target_url": "https://lrwtlfnz-8000.uks1.devtunnels.ms/expand",
+      "tick_url": "https://lrwtlfnz-8000.uks1.devtunnels.ms/expand"
+    }
+  }

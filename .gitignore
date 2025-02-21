@@ -1,0 +1,4 @@
+.pytest_cache
+.venv
+random.py
+__pycache__
