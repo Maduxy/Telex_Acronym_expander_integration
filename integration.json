@@ -7,8 +7,8 @@
       "descriptions": {
         "app_name": "Acronym Expander",
         "app_description": "Replaces common acronyms with their full forms (e.g., BTW : By the way).",
-        "app_logo": "https://i.imgur.com/lZqvffp.png",
-        "app_url": "https://lrwtlfnz-8000.uks1.devtunnels.ms",
+        "app_logo": "https://contenthub-static.grammarly.com/blog/wp-content/uploads/2022/12/Nov.blog_header_Acronym.png",
+        "app_url": "https://telex-acronym-expander-integration.onrender.com",
         "background_color": "#fff"
       },
       "is_active": true,
@@ -26,7 +26,7 @@
           "default": ""
         }
       ],
-      "target_url": "https://lrwtlfnz-8000.uks1.devtunnels.ms/expand",
-      "tick_url": "https://lrwtlfnz-8000.uks1.devtunnels.ms/expand"
+      "target_url": "https://telex-acronym-expander-integration.onrender.com/expand",
+      "tick_url": "https://telex-acronym-expander-integration.onrender.com/expand"
     }
   }
